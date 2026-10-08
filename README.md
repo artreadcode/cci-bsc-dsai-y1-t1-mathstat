@@ -17,7 +17,7 @@ c.f. The coding homework, usually in the Jupyter Notebook format, will be reveal
 | Week | Title    | Topic                                                                                                            | DD-MM-YYYY |   |
 |------|----------|------------------------------------------------------------------------------------------------------------------|------------|---|
 | 01   | Numbers! | How numbers and their operations are getting important in human history, and how it contributes to data science. | 02-10-2026 |   |
-| 02   | tbc      | tbc                                                                                                              | 09-10-2026 |   |
+| 02   | Linear Algebra (Numbers! Lv.2)      | How linear algebra upgrades the traditional number system and why it matters.                                                                                                              | 09-10-2026 |   |
 |      |          |                                                                                                                  |            |   |
 
 ## How to enjoy this unit
