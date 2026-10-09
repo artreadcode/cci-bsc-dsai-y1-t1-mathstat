@@ -1,7 +1,25 @@
 [project]
-name = "cci-bsc-dsai-y1-t1-mathstat"
+name = "MathStats202627"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+]
+
+[tool.uv.workspace]
+members = [
+    ".",
+]
+
+[tool.uv.sources]
+mathstats202627 = { workspace = true }
+
+[dependency-groups]
+dev = [
+    "mathstats202627",
+]
