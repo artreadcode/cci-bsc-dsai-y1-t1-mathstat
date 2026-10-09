@@ -21,11 +21,11 @@ c.f. The coding homework, usually in the Jupyter Notebook format, will be reveal
 |      |          |                                                                                                                  |            |   |
 
 ## How to enjoy this unit
-1. Listen to the pre-recorded lecture and do notetaking.
+1. Listen to the and do notetaking.
 2. Make it as a PDF. (Scan your notebook/export PDF from GoodNotes/Notability/Notion, ...)
-3. Attend the class, ask questions, communicate with your coursemates and follow the lab session. (Live coding)
+3. Ask questions, communicate with your coursemates and follow the lab session. (Live coding)
 4. Do your coding homework.
-5. Fill up the question sheet.
-6. Submit all three homework underneath a zip folder (File name must be: e.g. `w01_homework_studentID_Surname.zip`)
+5. Answer the question sheet.
+6. Submit all three weekly homework well.
 7. Touch the grass and enjoy sunshine.
    
